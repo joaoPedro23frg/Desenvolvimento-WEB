@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Minha Primeira Página HTML</title>
+</head>
+<body>
+<style>
+p{background-color: aqua;}
+body{background-color: aquamarine;}
+
+
+</style>
+
+<h1>Minha Primeira Página HTML</h1>
+<p>Bem-vindo à minha página</p>
+<ul>
+   seja gentil
+   seja engrançado
+   seja paciente
+</ul>
+
+<img src="https://live.staticflickr.com/2862/9899551176_b8c9c7dd30_w.jpg">
+
+<p><a href="https://www.youtube.com/watch?v=DXUtj-ChAQ0">Ir para o video</a>
+</p>
+</body>
+</html>
