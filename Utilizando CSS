@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Dia Ideal</title>
+</head>
+<body>
+
+    <style>
+h1{background-color: bisque;}
+h2{background-color: red;}
+p{background-color: gold;}
+    </style>
+
+<h1>"Dia Ideal"</h1>
+<img src="https://www.shutterstock.com/image-vector/happy-independence-day-india-poster-600nw-2656255779.jpg">
+<h2>Bem vindos a minha manhã<h2>
+<p>Gosto de começar minhas <em>manhãs</em> com calma e silêncio. Acordar sem pressa, preparar um café ou um chá, e simplesmente aproveitar esse momento antes que o dia comece de verdade é algo que valorizo muito. É como se fosse um tempo só meu, onde posso organizar meus pensamentos, respirar fundo e me conectar comigo mesmo(a). Às vezes leio alguma coisa leve, escuto uma música tranquila ou apenas fico em silêncio observando o dia clarear.</p>
+<p>Depois desse início mais tranquilo, costumo me movimentar um pouco para despertar o corpo e a mente. Seja com uma caminhada, um alongamento ou até mesmo organizando a casa, sinto que essas pequenas ações me ajudam a entrar no ritmo do dia. Para mim, a manhã é um momento essencial – uma espécie de preparação para tudo o que vem pela frente. Quando começo o dia assim, tudo parece fluir melhor.</p>
+<img src="https://wallpapers.com/images/featured/imagens-da-manha-6fwm35u6hn5d43v9.jpg">
+
+<h2>Bem vindos a minha tarde<h2>
+<p>À <em>tarde</em> eu gosto de tirar um tempo só pra mim, longe da correria do dia. Normalmente, coloco uma música tranquila, faço um café ou um chá, e me sento num canto confortável pra relaxar. Às vezes leio um livro, outras vezes só fico observando o que acontece ao meu redor, sem pressa. Gosto dessa pausa no meio do dia, quando o sol ainda está alto, mas o clima começa a ficar mais ameno. É um momento que me ajuda a recarregar as energias e a organizar os pensamentos.</p>
+<p>Também gosto de fazer algo produtivo nesse período, como escrever, desenhar ou cuidar de alguma tarefa pendente com mais calma. Se o tempo estiver bom, saio pra dar uma volta ou praticar alguma atividade leve ao ar livre. Não é sempre que faço tudo isso, mas gosto de ter a liberdade de escolher. A tarde, pra mim, é um espaço flexível, onde posso ser mais criativo ou simplesmente desacelerar — depende do dia e do meu humor.</p>
+<img src="https://img.freepik.com/fotos-gratis/silhueta-de-uma-pessoa-sentada-na-costa-durante-o-por-do-sol_181624-27364.jpg?semt=ais_hybrid&w=740&q=80">
+
+<h2>Bem vindos a minha noite<h2>
+<p>À <em>noite</em>, eu gosto de desacelerar de vez. Depois de um dia cheio, tudo o que quero é um pouco de silêncio e conforto. Costumo tomar um banho quente, colocar uma roupa bem confortável e deixar o ambiente mais tranquilo — luz baixa, talvez uma vela acesa ou uma música suave de fundo. É um momento que reservo pra mim, pra deixar o corpo e a mente se acalmarem. Às vezes aproveito pra assistir alguma série ou filme leve, algo que não exija muito, só pra relaxar mesmo.</p>
+<p>Também tem noites em que gosto de refletir sobre o dia, escrever um pouco, organizar ideias ou até fazer planos pro dia seguinte. Gosto dessa sensação de encerramento, de poder olhar pra tudo o que aconteceu e respirar fundo. Se estou inspirado, às vezes coloco fones de ouvido e saio pra uma caminhada curta, só pra sentir o ar fresco e pensar na vida. A noite, pra mim, tem esse clima mais íntimo e introspectivo, como se o mundo todo estivesse mais calmo, e eu pudesse simplesmente ser.</p>
+<img src="https://img.freepik.com/fotos-premium/estrada-vazia-em-meio-a-plantas-contra-o-ceu-a-noite_1048944-27433537.jpg">
+
+
+</body>
+</html>
